@@ -1,0 +1,17 @@
+.cal{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+  
+  
+  }
+  input{
+      margin-right: 150px;
+  }
+  button{
+      text-align: center;
+      margin-left: 50%;
+  }
+   
